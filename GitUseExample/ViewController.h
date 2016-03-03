@@ -9,6 +9,9 @@
 #import <UIKit/UIKit.h>
 
 @interface ViewController : UIViewController
+{}
+
+- (IBAction)clickTheButton:(id)sender;
 
 
 @end
