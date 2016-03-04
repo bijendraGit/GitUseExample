@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		22120E711C884158004267B0 /* mapClass.m in Sources */ = {isa = PBXBuildFile; fileRef = 22120E701C884158004267B0 /* mapClass.m */; };
 		222C37CF1C89756E00C0B592 /* bijendra2.m in Sources */ = {isa = PBXBuildFile; fileRef = 222C37CE1C89756E00C0B592 /* bijendra2.m */; };
+		222C37D51C89783B00C0B592 /* bijendra22.m in Sources */ = {isa = PBXBuildFile; fileRef = 222C37D41C89783B00C0B592 /* bijendra22.m */; };
 		2261AB221C881B9100BAE775 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 2261AB211C881B9100BAE775 /* main.m */; };
 		2261AB251C881B9100BAE775 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 2261AB241C881B9100BAE775 /* AppDelegate.m */; };
 		2261AB281C881B9100BAE775 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2261AB271C881B9100BAE775 /* ViewController.m */; };
@@ -23,6 +24,8 @@
 		22120E701C884158004267B0 /* mapClass.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = mapClass.m; sourceTree = "<group>"; };
 		222C37CD1C89756E00C0B592 /* bijendra2.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = bijendra2.h; sourceTree = "<group>"; };
 		222C37CE1C89756E00C0B592 /* bijendra2.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = bijendra2.m; sourceTree = "<group>"; };
+		222C37D31C89783B00C0B592 /* bijendra22.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = bijendra22.h; sourceTree = "<group>"; };
+		222C37D41C89783B00C0B592 /* bijendra22.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = bijendra22.m; sourceTree = "<group>"; };
 		2261AB1D1C881B9100BAE775 /* GitUseExample.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GitUseExample.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2261AB211C881B9100BAE775 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		2261AB231C881B9100BAE775 /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -80,6 +83,8 @@
 				2261AB201C881B9100BAE775 /* Supporting Files */,
 				222C37CD1C89756E00C0B592 /* bijendra2.h */,
 				222C37CE1C89756E00C0B592 /* bijendra2.m */,
+				222C37D31C89783B00C0B592 /* bijendra22.h */,
+				222C37D41C89783B00C0B592 /* bijendra22.m */,
 			);
 			path = GitUseExample;
 			sourceTree = "<group>";
@@ -168,6 +173,7 @@
 				222C37CF1C89756E00C0B592 /* bijendra2.m in Sources */,
 				2261AB221C881B9100BAE775 /* main.m in Sources */,
 				2261AB2E1C881B9100BAE775 /* GitUseExample.xcdatamodeld in Sources */,
+				222C37D51C89783B00C0B592 /* bijendra22.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
